@@ -44,7 +44,7 @@ Write the SQL query in the "hero sql" section below the specified requirement in
 	Retrieve the average player level for each class,
 	arranging them in descending order from the highest level to the lowest.*/
 
-/*8	Push the local repository to the remote repository on GitHub
+/*8	Push the local repository to the remote repository on GitHub*/
 
 
 --	Sample Output of hero.sql:
