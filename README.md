@@ -1,3 +1,5 @@
+Activity 3.2. Step-by-step process:
+
 # Step 1: Open a terminal
 # Step 2: Navigate to the desktop
 cd ~/Desktop
