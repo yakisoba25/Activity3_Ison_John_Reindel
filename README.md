@@ -35,7 +35,17 @@ git commit -m "Initial commit"
 # Step 13: Display the remote connection for the Git repository
 git remote -v
 
-# Step 14: Link the local Git repository to the remote repository on GitHub
+# Step 14: Link the local Git repository to the remote repository on your GitHub
+	
+	To create a Git remote repository on GitHub with the same name as the local repository, and associate it with your GitHub account, follow these additional steps:
+	Open a web browser and go to GitHub (https://github.com).
+	Log in to your GitHub account or create one if you don't have an account already.
+	Click on the "+" sign in the upper right corner and select "New repository."
+	Fill out the repository name as "Activity3.2_YourName" (replace "YourName" with your actual GitHub username), and add an optional description if you like.
+	Choose the visibility (public or private) based on your preferences.
+	Optionally, you can initialize the repository with a README file, create a .gitignore file, and select a license.
+	Click the "Create repository" button to create the remote repository on GitHub.
+
 git remote add origin https://github.com/YourGitHubUsername/Activity3.2_YourName.git
 
 # Step 15: Push the local repository to the remote repository on GitHub
