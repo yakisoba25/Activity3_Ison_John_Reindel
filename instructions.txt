@@ -1,14 +1,14 @@
-Each of the following is worth 2 points, with 1 point allocated for each branch/ commit 
-and 1 point awarded for a correct query.
-
-	Rubriks:
+## 	Rubriks:	
+	Each of the following is worth 2 points, with 1 point allocated for each branch/ commit 
+	and 1 point awarded for a correct query.
+	
 	Committed and Pushed 7 branches or changes: 4 points
 	Committed and Pushed 6 branches or changes: 3 points
 	Committed and Pushed 4 to 5 branches or changes: 2 points
 	Committed and Pushed 1 to 3 branches or changes: 1 point
 	No committed and pushed branch: 0 point
 
-Write the SQL query in the "hero sql" section below the specified requirement in the file.
+##	Write the SQL query in the "hero sql" section below the specified requirement in the file.
 
 /*1.	Create a new branch named "feat/create-tables"
 
