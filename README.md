@@ -8,7 +8,7 @@ cd ~/Desktop
 git clone https://github.com/Daryl23/Activity3.2_YourName.git
 
 ## Step 4: Rename the cloned directory to include your name
-mv Activity3.2_LastName_FirstName Activity3.2_LastName_FirstName
+mv Activity3.2_YourName Activity3.2_LastName_FirstName
 
 ## Step 5: Navigate into the renamed directory
 cd Activity3.2_YourName_YourActualName
