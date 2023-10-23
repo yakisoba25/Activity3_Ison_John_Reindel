@@ -8,7 +8,7 @@ cd ~/Desktop
 git clone https://github.com/Daryl23/Activity3.2_YourName.git
 
 ## Step 4: Rename the cloned directory to include your name
-mv Activity3.2_YourName Activity3.2_LastName_FirstName
+mv Activity3.2_LastName_FirstName Activity3.2_LastName_FirstName
 
 ## Step 5: Navigate into the renamed directory
 cd Activity3.2_YourName_YourActualName
@@ -22,7 +22,7 @@ pwd
 ## Step 8: List the contents of the directory (including the hidden ones)
 ls -a
 
-## Step 9: Initialize the directory as a Git repository
+## Step 9: Initialize the directory as a Git repository (OPTIONAL)
 git init
 
 ## Step 10: Check the status of the Git repository
@@ -51,7 +51,7 @@ git remote -v
 git remote add origin https://github.com/YourGitHubUsername/Activity3.2_YourName.git
 
 ## Step 15: Push the local repository to the remote repository on GitHub
-git push -u origin master
+git push -u origin main
 
 ## Step 16: Open the folder in Visual Studio Code
 code .
