@@ -70,8 +70,8 @@ CREATE DATABASE hero;
 
 ## Step 21: Add and commit the changes to the "feat/create-database" branch:
 git status
-git add hero.sql
-git commit -m "feat create database syntax"
+\ngit add hero.sql
+\nit commit -m "feat create database syntax"
 
 ## Step 22: Switch back to the main branch
 git checkout main
