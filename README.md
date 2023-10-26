@@ -82,6 +82,20 @@ git merge -m "feat added create database" feat/create-database
 ## Step 24: Create a new branch named "feat/create-tables" and switch to it:
 git checkout -b feat/create-tables
 
+\tAdd the given SQL code line to your hero.sql file to create a tables. refer to sample output from instructions.txt
+\tCREATE TABLE ...
+
+\tAdd and commit the changes to the "feat/create-tables" branch:
+\tgit status
+\tgit add hero.sql
+\tgit commit -m "feat create tables syntax"
+
+\tSwitch back to the main branch
+\tgit checkout main
+
+\tMerge the changes from the feat/create-tables feature branch into the main branch
+\tgit merge -m "feat added create database" feat/create-tables
+
 ## Step 25: Repeat steps 19-24 seven more times, following "instructions.txt", 
 	and provide comments indicating the item number and what is being asked 
 	for in each step. You may comment on your query related to data selection, 
