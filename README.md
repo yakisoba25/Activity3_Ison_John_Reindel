@@ -59,7 +59,7 @@ code .
 ## Step 17: Open the file "hero.sql" in Visual Studio Code
 code hero.sql
 
-## Step 18: Open the file "instruction.txt" in Visual Studio Code
+## Step 18: Open the file "instructions.txt" in Visual Studio Code
 code instructions.txt
 
 ## Step 19: Create a new branch named "feat/create-database" and switch to it
