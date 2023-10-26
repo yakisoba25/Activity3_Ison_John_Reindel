@@ -77,7 +77,7 @@ git commit -m "feat create database syntax"
 git checkout main
 
 ## Step 23: Merge the changes from the feature branch (e.g., "feat/create-database") into the main branch
-git merge feat/create-database
+git merge -m "feat added create database" feat/create-database
 
 ## Step 24: Create a new branch named "feat/create-tables" and switch to it:
 git checkout -b feat/create-tables
